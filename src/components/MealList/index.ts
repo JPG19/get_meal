@@ -1,3 +1,3 @@
-import MealList from "./MealList";
+import MealList from './MealList'
 
-export default MealList;
+export default MealList
